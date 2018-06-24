@@ -1,4 +1,6 @@
 # Vue Wait Component
+[![Build Status](https://travis-ci.org/kubotak-is/vue-wait-component.svg?branch=master)](https://travis-ci.org/kubotak-is/vue-wait-component)
+
 When load is delayed if it is later than the response.
 
 ## Usage

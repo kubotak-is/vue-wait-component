@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: '/kubotak-is/vue-wait-component/dist/'
+  baseUrl: '/vue-wait-component/dist/'
 }
