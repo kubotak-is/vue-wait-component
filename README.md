@@ -14,8 +14,21 @@ $ yarn add vue-wait-component
 ### WaitList
 API response wait component.
 
+|props|type|description|
+|:----|:----:|:----|
+|wait|Number|delay the loading effect|
+|promiseMethod|Promise|api request object|
+
 ### WaitImg
 Image response wait component.
+
+|props|type|description|
+|:----|:----:|:----|
+|wait|Number|delay the loading effect|
+|src|String|image source url|
+|alt|String|image description|
+|width|Number|image width|
+|height|Number|image height|
 
 ```html
 <template>

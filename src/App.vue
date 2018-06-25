@@ -6,7 +6,7 @@
 
     <div class="container-lg clearfix">
       <div class="col-sm-6 float-left p-2">
-        <label>loating wait</label>
+        <label>loading wait</label>
         <input type="range" name="wait" v-model="wait" min="0" max="1000" step="100" style="width: 100%;">
       </div>
       <div class="col-sm-2 float-left p-2">
